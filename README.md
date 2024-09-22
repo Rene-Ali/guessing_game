@@ -1,3 +1,9 @@
+# Functionality
+
+Please enter different numbers in the field and press "Submit Guess." 
+Based on your input, you will receive dynamic feedback – the correct number is 42.
+Upon entering the correct number, an animation will be triggered.
+
 # GuessingGame
 
 To start your Phoenix server:
